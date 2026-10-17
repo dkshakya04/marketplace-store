@@ -1,0 +1,6 @@
+EXTENDED LICENSE
+
+Everything in the Commercial Use License, plus: you may use the files in end products that are sold
+to multiple customers (e.g. SaaS, apps, themes) provided the files are not extractable as a standalone asset.
+Redistribution or resale of the source files themselves is still prohibited.
+All rights remain with the author. No refunds on digital products except where the file is defective.

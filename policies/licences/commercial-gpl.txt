@@ -1,0 +1,17 @@
+LICENCE — WORDPRESS THEME PACKAGE
+
+1. Theme code (PHP, HTML block templates, CSS, JavaScript inside the theme folder)
+   Licensed under the GNU General Public License v2 or later, as required for WordPress themes.
+   You may modify and redistribute the code under the GPL.
+
+2. Everything else in this download
+   Documentation (INSTRUCTIONS.pdf, README), the HTML landing-page export, SVG artwork, preview
+   images, sample copy and the packaging are licensed to you, the purchaser, under a single-user
+   COMMERCIAL LICENCE: use them on unlimited sites you own or build for clients. You may NOT resell,
+   redistribute, share or sublicense these files, in whole or in part, including inside another
+   theme, kit, bundle or marketplace listing.
+
+3. Support and updates are provided to the original purchaser only.
+
+No refunds on digital products except where the files are defective. All rights not expressly
+granted are reserved by the author.
